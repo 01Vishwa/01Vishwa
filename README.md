@@ -109,16 +109,6 @@ Full-stack application that automatically reviews GitHub pull requests by dispat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01vishwa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01vishwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Get In Touch
 
 <p align="left">
