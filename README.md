@@ -6,7 +6,7 @@
   <a href="http://vishwa01r.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-vishwa01r.vercel.app-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/r-vishwa-5b2a80226/" target="_blank">
+  <a href="https://www.linkedin.com/in/r-vishwa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/rv1922" target="_blank">
@@ -32,40 +32,10 @@ I'm an **AI Engineer** specializing in building production-grade **agentic AI sy
 ## 🚀 Featured Projects
 
 ### 🔁 [LoopMind — Intelligent Document Processing Platform](https://github.com/01Vishwa/Agentloop)
-> Autonomous agentic platform powered by the **DS-STAR Framework** (Self-Taught Agent with Reasoning)
-
-An end-to-end multi-agent system that autonomously **analyzes datasets, generates Python code, executes it in a Docker sandbox, and self-verifies output** against user constraints — all in a real-time streaming loop.
-
-- **Agent Pipeline**: File Analyzer → Planner → Coder → Executor → Debugger → Verifier → Router → Finalizer
-- **Secure Sandboxing** via isolated Docker containers for AI-generated code execution
-- **Live Streaming** of agent states and artifacts via Server-Sent Events (SSE)
-- **Sub-question decomposition** for complex multi-query workflows
-- `Python` `FastAPI` `LangChain` `NVIDIA NIM` `React 19` `Supabase` `Docker`
-
----
 
 ### 🛒 [Multi-Agent Orchestrator — E-Commerce Support System](https://github.com/01Vishwa/Multi-Agent-Orchestrator)
-> Hierarchical multi-agent system for unified customer support using **LangGraph StateGraph**
-
-A production-style multi-agent architecture with a **Super Agent** orchestrating 4 domain-specialized agents (Orders, Logistics, Payments, Support) — each powered by **Text-to-SQL** over isolated virtual databases.
-
-- **40% latency reduction** via intent caching; **60% of queries** bypass LLM with pattern matching
-- Parallel agent execution using `ThreadPoolExecutor`
-- Conversation memory via `MemorySaver` checkpointing
-- Real-time web chat UI
-- `Python` `LangGraph` `Django` `GPT-4o` `SQLite` `Multi-Agent Systems`
-
----
 
 ### 🔍 [Automated GitHub PR Review Agent](https://github.com/01Vishwa/Automated-GitHub-Pull-Request-Review-Agent)
-> AI-powered code review system using a **CrewAI 5-agent pipeline** with Google OAuth
-
-Full-stack application that automatically reviews GitHub pull requests by dispatching specialized AI agents — Diff Analyst, Code Reviewer, Security Analyst, Best Practices Advisor, and Technical Lead — each independently analyzing the PR and synthesizing a final verdict.
-
-- **5 specialized CrewAI agents** with role-based prompt engineering
-- **Google OAuth 2.0** authentication with JWT-secured API
-- Fallback pattern-based analysis when LLM is unavailable
-- `Python` `FastAPI` `CrewAI` `LangChain` `Next.js 15` `TypeScript` `Firestore`
 
 ---
 
@@ -116,7 +86,7 @@ Full-stack application that automatically reviews GitHub pull requests by dispat
     <img src="https://img.shields.io/badge/Email-vishwa0r1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/r-vishwa-5b2a80226/" target="_blank">
+  <a href="https://www.linkedin.com/in/r-vishwa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-r--vishwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
